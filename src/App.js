@@ -1,5 +1,6 @@
 // src/App.jsx
-import React, { useState } from 'react';
+import React from 'react';
+import  { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import FlipkartEcommerce from './FlipkartEcommerce';
 import CartPage from './CartPage';
