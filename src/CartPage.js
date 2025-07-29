@@ -1,5 +1,5 @@
 // src/pages/CartPage.jsx
-import React from 'react';
+ 
 import { Trash2 } from 'lucide-react';
 
 const CartPage = ({ cart = [], removeFromCart }) => {
